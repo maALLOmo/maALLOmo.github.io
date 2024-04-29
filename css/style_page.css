@@ -1,0 +1,25 @@
+@charset "utf-8";
+body {
+    background-color: #83A8DB;
+}
+.pp_footer {
+    background-color: #DBB104;
+}
+.nav-style {
+    background-color: #DBB104;
+    color: #BF0315;
+}
+.nav-link {
+    color: #228B22;
+}
+.bnt-style- {
+    background-color: #DBB104;
+    font-style: italic;
+}
+.card.col-md-12 .card-body .card-title {
+    color: #228B22;
+}
+.carousel-item .carousel-caption h5 {
+    color: #BF0315;
+    background-color: #DBB104;
+}
